@@ -88,7 +88,6 @@ If you meet problem sending email, please refer to support Team for reviewing th
 open to contributions 
 
 ## Authors and acknowledgment
-- Janie Michel: Integration Team lead
 - Mamadou Bamba Diop: Integration Specialist
 
 
